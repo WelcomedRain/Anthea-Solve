@@ -1,6 +1,0 @@
-{
-  "name": "Anthea Solve",
-  "description": "Independent software studio engineering local-first, zero-cloud intelligent architectures by Gene Bernardin.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
