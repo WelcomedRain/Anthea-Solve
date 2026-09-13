@@ -1,0 +1,3 @@
+# index.html is a compiled artefact: every byte is meaningful, and the editor
+# verifies it round-trips byte for byte. Git must not rewrite its line endings.
+index.html -text
